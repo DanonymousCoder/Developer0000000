@@ -26,8 +26,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/devloper_000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devloper_000" height="30" width="40" /></a>
-<a href="https://discord.gg/muhammadtayyab." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="muhammadtayyab." height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tayyab-afzal-4787b028a/" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1661161645857710081/6WtDIesg_400x400.png" alt="replit" height="30" width="30" /></a>
 <a href="https://replit.com/@TayyabAfzal1" target="blank"><img align="center" src="https://docs.replit.com/image/logoLight.png" alt="replit" height="30" width="80" /></a>
+
 </p>
 
 
